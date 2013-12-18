@@ -1,0 +1,23 @@
+Congressional Cemetery;DISTRICT OF COLUMBIA Washington;19690623
+South Green Historic District;CONNECTICUT Hartford;19771117
+Arcade Hotel;FLORIDA Tarpon Springs;19840112
+Kilsyth Terrace;MASSACHUSETTS Brookline;19851017
+Warren Commercial Historic District;ILLINOIS Warren;19951107
+College Hall, Wilmington College;OHIO Wilmington;19730423
+Galivants Ferry Historic District;SOUTH CAROLINA Galivants Ferry;20010329
+Lucas County Courthouse;IOWA Chariton;19810702
+Fort Crailo;NEW YORK Rensselaer;19661015
+Hagemann, Frederick and Augusta, Farm;INDIANA Mount Vernon;19930318
+Howie, David W., House;WISCONSIN Milwaukee;19860116
+Asan Invasion Beach;GUAM Asan;19790214
+First Methodist Church;TEXAS Cuero;19881031
+St. Barnabas' Episcopal Church;NEW JERSEY Newark;19721018
+Hotel Harding;OHIO Marion;19800311
+Pierce County Courthouse;GEORGIA Blackshear;19800918
+Durlin Hotel;ARIZONA Oatman;19830825
+Wollaston Fire Station;MASSACHUSETTS Quincy;19890920
+Tioga Centre General Store;NEW YORK Tioga Center;20030115
+Lamb's Creek Church;VIRGINIA Sealston;19720922
+hello world;VIRGINIA Sealston;19720922
+hello world1;VIRGINIA Sealston;19720922
+hello world2;VIRGINIA Sealston;19730922

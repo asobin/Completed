@@ -1,0 +1,15 @@
+Mary,green,110.0,
+Ashley,blue,120.0,Mary
+Emily,brown,132.3,Ashley
+Aaliyah,black,94.4,Mary
+Samantha,brown,160,Aaliyah
+Emma,black,144.9,Mary
+Jessica,brown,158,Mary
+Olivia,blue,99,Ashley
+Hannah,blue,111,Jessica
+Sarah,gray,133,Hannah
+Lily,green,145,Sarah
+Rebecca,blue,158,Sarah
+Abigail,green,165,Emma
+Elizabeth,brown,139,Lily
+Louise,brown,124.2,Jessica
