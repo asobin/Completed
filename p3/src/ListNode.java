@@ -1,28 +1,6 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Main Class File:  FindKnightsPath.java
-// File:             ListNode.java
-// Semester:         CS367 Fall 2013
-//
-// Author:           David Maman
-// CS Login:         maman
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   PAIR PROGRAMMERS COMPLETE THIS SECTION
-// Pair Partner:     Alexander Sobin
-// CS Login:         sobin
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   STUDENTS WHO GET HELP FROM ANYONE OTHER THAN THEIR PARTNER
-// Credits:          N/A
-//////////////////////////// 80 columns wide //////////////////////////////////
 /**
  * Generic doubly linked list node. It serves as the basic building block for 
  * storing data in doubly linked chains of nodes.
- * 
- * <b>Do not modify this file in any way!</b>
  */
 class ListNode<E> 
 {
