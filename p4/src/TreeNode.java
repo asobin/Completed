@@ -1,9 +1,3 @@
-/** The TreeNode class represents a single node in the family tree. A node has 
- * the infomation of a person (as a Person) and also the infomation about its 
- * parent node (as a TreeNode) and children nodes (as a List of TreeNodes).
- * 
- * DO NOT MODIFY THIS CLASS
- */
 import java.util.*;
 
 public class TreeNode<E> 
