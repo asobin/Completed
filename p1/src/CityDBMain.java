@@ -1,26 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Title:            Program 1
-// Files:            Landmark.java, City.java, CityDatabase.java,
-//                   CityDBMain.java
-// Semester:         CS367 Fall 2013
-//
-// Author:           Alexander Sobin
-// Email:            asobin@wisc.edu
-// CS Login:         sobin
-// Lecturer's Name:  Skrentny
-// Lab Section:      N/A
-//
-//                   PAIR PROGRAMMERS COMPLETE THIS SECTION
-// Pair Partner:     (name of your pair programming partner)
-// Email:            (email address of your programming partner)
-// CS Login:         (partner's login name)
-// Lecturer's Name:  (name of your partner's lecturer)
-// Lab Section:      (your partner's lab section number)
-//
-//                   STUDENTS WHO GET HELP FROM ANYONE OTHER THAN THEIR PARTNER
-// Credits:          David Maman
-//////////////////////////// 80 columns wide //////////////////////////////////
 import java.io.*;
 import java.util.*;
 
