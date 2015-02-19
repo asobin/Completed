@@ -1,23 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Main Class File:  FamilyTreeMain.java
-// File:             FamilyTree.java
-// Semester:         CS367 Fall 2013
-//
-// Author:           David Maman
-// CS Login:         maman
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   PAIR PROGRAMMERS COMPLETE THIS SECTION
-// Pair Partner:     Alexander Sobin
-// CS Login:         sobin
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   STUDENTS WHO GET HELP FROM ANYONE OTHER THAN THEIR PARTNER
-// Credits:          N/A
-//////////////////////////// 80 columns wide //////////////////////////////////
 import java.util.*;
 
 /**
@@ -27,7 +7,7 @@ import java.util.*;
  *
  * <p>Bugs:none known
  *
- *@author asobin, dmaman
+ *@author asobin
  */
 public class FamilyTree
 {
