@@ -3,25 +3,15 @@ import java.io.FileNotFoundException;
 import java.util.*;
 
 public class JosephusMain2 {
-    /* You may create additional private static 
-        variables or methods as needed */
+
  private static CLL<String> soldiers;
 
     public static final void main(String[] args) throws ElementNotFoundException {
-        // *** Step 1: Check whether exactly one command-line argument is given *** 
-        // *** Add code for step1 here ***
-     
      String filename = args[0];
 
   //creates new file
   File f = new File(filename);
-//  if(!f.canRead()&&!f.exists()){
-//   System.out.println("Error: Cannot access input file");
-//   System.exit(-1);
-//  }
   Scanner in; 
-
-
   try{
    in = new Scanner(f);
    soldiers = new CLL<String>();
@@ -41,7 +31,7 @@ public class JosephusMain2 {
 
         Scanner scan = new Scanner(System.in);
 
-        //** You may also add additional variables as needed **//
+       
 
         while (true) {
             String line = scan.nextLine();
@@ -77,23 +67,12 @@ public class JosephusMain2 {
                System.out.println("Cycle must be " +
                  "greater than or equal to zero");
               }
-//              if(!direction.trim().equals("forward") || 
-//                !direction.toLowerCase().equals("f") || 
-//                !direction.toLowerCase().equals("backward") || 
-//                !direction.toLowerCase().equals("b")){
-//               System.out.println("Direction must be " +
-//                 "forwards or backwards");
-//              }
               int count = 1;
               if(numCycles > 0){
                
    
               }
-//              if(numCycles == 0){
-//               CLLIterator<String> itr = soldiers.iterator();
-//               while(itr.hasNext() && soldiers.size() > 0){
-//                itr.remove();
-//               }
+
               CircularLinkedListIterator<String> itr = soldiers.iterator();
               int cycleCounter = 0;
               int countCounter = 0;
