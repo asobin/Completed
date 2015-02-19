@@ -1,10 +1,3 @@
-/** The Person class represents a single person that keeps track of her name 
- * (as a String), age (as an int), eye color (as a String) and weight (as a 
- * double). 
- * 
- * DO NOT MODIFY THIS CLASS
- */
-
 public class Person 
 {
 	private String name;
