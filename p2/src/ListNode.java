@@ -1,8 +1,6 @@
 /**
  * Generic doubly linked list node. It serves as the basic building block for 
  * storing data in doubly linked chains of nodes.
- * 
- * <b>Do not modify this file in any way!</b>
  */
 class Listnode<E> 
 {
