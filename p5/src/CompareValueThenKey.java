@@ -1,23 +1,4 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Main Class File:  WordFrequencyMain
-// File:             CompareValueThenKey.java
-// Semester:         CS367 Fall 2013
-//
-// Author:           David Maman
-// CS Login:         maman
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   PAIR PROGRAMMERS COMPLETE THIS SECTION
-// Pair Partner:     Alexander Sobin
-// CS Login:         sobin
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:     N/A
-//
-//                   STUDENTS WHO GET HELP FROM ANYONE OTHER THAN THEIR PARTNER
-// Credits:          
-//////////////////////////// 80 columns wide //////////////////////////////////
+
 import java.util.Comparator;
 /**
  * This class is used to sort the linked list of entries in the SimpleHashMap
@@ -26,7 +7,7 @@ import java.util.Comparator;
  *
  * <p>Bugs: none known
  *
- * @author maman,sobin
+ * @author sobin
  */
 public class CompareValueThenKey<String extends Comparable<String>,
 Integer extends Comparable<Integer>>
