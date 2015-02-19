@@ -1,28 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Title:            p3
-// Files:            FindKnightsPath.java; ListNode.java; QueueADT.java;
-//					 SimpleQueue.java; SimpleStack.java; StackADT.java;
-//					 StackADT.java; EmptyQueueException.java;
-//					 EmptyStackException.java
-// Semester:         CS367 Fall 2013
-//
-// Author:           David Maman
-// Email:            dmaman@wisc.edu
-// CS Login:         maman
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   PAIR PROGRAMMERS COMPLETE THIS SECTION
-// Pair Partner:     Alexander Sobin
-// Email:            asobin@wisc.edu
-// CS Login:         sobin
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   STUDENTS WHO GET HELP FROM ANYONE OTHER THAN THEIR PARTNER
-// Credits:          N/A
-//////////////////////////// 80 columns wide //////////////////////////////////
 /**
  * FindKnightsPath is an application designed to solve the classic chess problem
  * involved in moving the knight around the board without retracing steps.
@@ -34,7 +9,7 @@
  *  
  * <p>Bugs: none known, some bizarre command-line args perhaps.
  *
- * @authors maman, sobin
+ * @authors sobin
  */
 public class FindKnightsPath 
 {
