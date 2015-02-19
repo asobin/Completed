@@ -1,41 +1,8 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Title:            P5
-// Files:            SimpleHashMap.java, CompareValueThenKey.java
-// Semester:         CS367 Fall 2013
-//
-// Author:           David Maman
-// CS Login:         maman
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   PAIR PROGRAMMERS COMPLETE THIS SECTION
-// Pair Partner:     Alexander Sobin
-// CS Login:         sobin
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   STUDENTS WHO GET HELP FROM ANYONE OTHER THAN THEIR PARTNER
-// Credits:          
-//////////////////////////// 80 columns wide //////////////////////////////////
+
 import java.io.*;
 import java.util.*;
  
-/**
- * <p>This class is the main class that runs the application. A file is read 
- * in by a single command line argument and then mapped accordingly to a 
- * SimpleHashMap data structure.<p>  
- * <p>The words in a text file are sent to the 
- * SimpleHashMap in the form of an Entry to store the string value and integer
- * value (the integer value is the amount of occurrences for this word in the
- * text file).The output displays the top eleven most frequent 
- * occurrences for a word in alphabetical order depending on the number of
- * occurrences<p>
- *
- * <p>Bugs: none known
- *
- * @author maman,sobin
- */
+
 public class WordFrequencyMain
 {
     /*freqWord is the hashmap to store all the words in a file and their 
