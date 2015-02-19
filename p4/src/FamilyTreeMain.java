@@ -1,26 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Title:            p4
-// Files:            FamilyTreeMain.java; FamilyTree.java; TreeNode.java;
-//                   Person.java
-// Semester:         CS367 Fall 2013
-//
-// Author:           David Maman
-// Email:            dmaman@wisc.edu
-// CS Login:         maman
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   PAIR PROGRAMMERS COMPLETE THIS SECTION
-// Pair Partner:     Alexander Sobin
-// Email:            asobin@wisc.edu
-// CS Login:         sobin
-// Lecturer's Name:  Jim Skrentny
-// Lab Section:      N/A
-//
-//                   STUDENTS WHO GET HELP FROM ANYONE OTHER THAN THEIR PARTNER
-// Credits:          N/A
-//////////////////////////// 80 columns wide //////////////////////////////////
 import java.util.*;
 import java.io.*;
 /**
@@ -30,7 +7,7 @@ import java.io.*;
  *<p>Bugs: If data file passed in is altered there may be issues with 
  *loading in the data. 
  *
- * @author asobin, dmaman
+ * @author asobin
  */
 public class FamilyTreeMain
 {
