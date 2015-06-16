@@ -10,10 +10,10 @@ Please email me at sobin92@gmail.com for questions pertaining to programs.
  associated with the monuments.
  
 ## p2
- uses a doubley-linked circular list to run the Josephus Problem
+ uses a doubley-linked circular list to run the [Josephus Problem](https://en.wikipedia.org/wiki/Josephus_problem)
 
 ## p3
- uses a stack and queue to run the Knight's Path Problem
+ uses a stack and queue to run the [Knight's Tour](https://en.wikipedia.org/wiki/Knight%27s_tour)
  
 ## p4
  uses a general tree to construct a family tree
