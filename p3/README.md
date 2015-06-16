@@ -6,5 +6,5 @@ using the stack and queue ADT's to determine the tour.
 
 To run in Eclipse:
   1. Create new java project
-  2. Download/Fork p3 src
+  2. Download/Clone p3 src
   3. Run FindKnightsPath.java
